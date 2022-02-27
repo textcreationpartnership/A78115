@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the eight quæries propounded by the House of Commons, to the assembly called divines, sitting at Westminster, April. 22. 1646 never to this day by them answered, nor they called to an accompt by the Parliament, for their ignorance or negligence therein.</title>
+            <author>Barber, Edward, d. 1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78115</idno>
+            <idno type="STC">Wing B691</idno>
+            <idno type="STC">ESTC R230130</idno>
+            <idno type="EEBO-CITATION">99899557</idno>
+            <idno type="PROQUEST">99899557</idno>
+            <idno type="VID">153816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2381:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the eight quæries propounded by the House of Commons, to the assembly called divines, sitting at Westminster, April. 22. 1646 never to this day by them answered, nor they called to an accompt by the Parliament, for their ignorance or negligence therein.</title>
+                  <author>Barber, Edward, d. 1674?</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Leaves B2 and B3 signed B3 and A3 respectively.</note>
+                  <note>Pagination and text are continuous despite register.</note>
+                  <note>Reproduction of original in the Congregational Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Church --  Authority --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153816:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE Eight Quaeries propounded by the Houſe of Commons, to the Aſſembly called Divines, ſitting at <hi>Weſt<g ref="char:EOLhyphen"/>minſter, April.</hi> 22. 1646. never to this day by them An<g ref="char:EOLhyphen"/>ſwered, nor they called to an accompt by the Parlia<g ref="char:EOLhyphen"/>ment, for their ignorance or negligence therein.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 31.6.</hi>
+               </bibl> I have hated them that regard lying vanities, but I truſt in the Lord.</q>
+            <q>
+               <bibl>
+                  <hi>Jonah 2.8.</hi>
+               </bibl> They that obſerve lying vanities, forſake their own mercy.</q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 82.6.7.</hi>
+               </bibl> I have ſaid, ye are Gods; and all of you are Children of the moſt high: But ye ſhall dye like men, and fa l like one of the Princes.</q>
+            <q>
+               <bibl>
+                  <hi>Jer. 5.30.</hi>
+               </bibl> A wonderfull and horrible thing is committed in the Land, the Prophets propheſie lyes, and the Prieſts receive gifts in their hands: and my people delight therein, what will ye then do in the end thereof.</q>
+            <q>
+               <bibl>
+                  <hi>Cor. 1.14.36.</hi>
+               </bibl> What, came the word of God out from you, or came it unto you only.</q>
+            <q>
+               <bibl>
+                  <hi>Gal. 4.16.</hi>
+               </bibl> Am I therefore become your enemy, becauſe I tell you the truth.</q>
+            <q>
+               <bibl>
+                  <hi>2 Cor. 4.2.</hi>
+               </bibl> But have renounced the hidden things of diſhoneſty, not walking in craftineſſe, nor handling the word of God deceit<g ref="char:EOLhyphen"/>fully, but by manifeſtatio<g ref="char:cmbAbbrStroke">̄</g> of the truth, co<g ref="char:cmbAbbrStroke">̄</g>mending our ſelves to every mans Conſcience in the ſight of God.</q>
+            <q>
+               <bibl>
+                  <hi>Col. 2.8.</hi>
+               </bibl> Beware leaſt any man ſpoil you through Philoſophy and vain deceit &amp;c.</q>
+            <q>
+               <bibl>
+                  <hi>1 Tim. 6.20.</hi>
+               </bibl> Oh <hi>Timothy,</hi> keepe that which is co<g ref="char:cmbAbbrStroke">̄</g>mitted to thy truſt, avoiding profane &amp; vain bablings.</q>
+            <p>By <hi>Edward Barber</hi> Freeman of England, Citizen and Marchant-Taylor of <hi>London.</hi> 1648.</p>
+         </div>
+         <div type="dedication">
+            <head>To thoſe Noble Senators, the choſen Stewards and Servants of the free<g ref="char:EOLhyphen"/>men of <hi>England,</hi> the Commons aſſembled in Parliament, with that Right Noble Generall, the Lord <hi>Fairfax,</hi> and Lieut. Gen. <hi>Crumwell.</hi>
+            </head>
+            <opener>
+               <salute>RIGHT HONORABLE,</salute>
+            </opener>
+            <p>TAking into conſideration the Quaeries ſo long ſince pro<g ref="char:EOLhyphen"/>pounded by your Honours, to the Aſſembly called Divines at <hi>Weſtminster,</hi> deſiring their Anſwers therein, as once <hi>Ne<g ref="char:EOLhyphen"/>bucadnizer</hi> did of his dream, from his Magicians, Aſtrolo<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, Sorcerers, and Caldeans, whom he had choſen, and to whom was appointed a dayly proviſion of the Kings meate, and of the wine which he drank. <hi>Dan.</hi> 2. That ſo being nouriſhed at his Table, at three years end, they might ſtand before the King, But they being called forth to ſatisſie the Kings deſire, in tel<g ref="char:EOLhyphen"/>ling
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:153816:2"/>&amp;c. as <hi>Ier.</hi> 51 6.7. compared with <hi>Iſaia</hi> 21.9. and <hi>Micha</hi> 2.10.11. Ariſe ye and depart, for this is not your reſt, becauſe it is polluted it ſhall deſtroy you, even with a ſore deſtruction, if a man walking in the ſpirit of falſhood do lye, ſaying, I will propheſie unto thee of wine and ſtrong drink, he ſhall even be the prophet of this people, compared with 2. <hi>Cor.</hi> 6.14. to 18. and <hi>Revel.</hi> 18.4. come out of her my people that ye be not partakers of her ſinnes, and that ye receive not of her plagues.</p>
+            <p>Now as the people of God were thus called forth of temporall and ſpirituall <hi>Babylon,</hi> ſo the inſtruments by which the Lord will do this great work, ſhall be by diſpiſed perſons, that ſo the great wiſe men of the world may ſtay themſelves, and wonder who are blind &amp; make you blind, inſtead of this they render it, cry ye out and cry, <hi>Iſai.</hi> 29.9. to 15. &amp; alſo, that the whole glory may be given to God only, &amp; not to men, and as for ſuch as have received their Call and Ordinati<g ref="char:EOLhyphen"/>on from the beaſt, or no calling at all as ſome now pretends, if ever they ſhould be converted and to ſubmit unto the Order and Govern<g ref="char:EOLhyphen"/>ment of <hi>King Ieſus</hi> in the Goſpell way, yet will theſe be the unſitteſt for the carrying forth of that rich treaſure of the Goſpel, they having formerly ſworn themſelves Servants unto Antichriſt, and therefore will be but as the <hi>Gibiouites,</hi> who although by their craft had ſaved their lives, yet were by <hi>Joſuah</hi> that glorious Tipe of Chriſt, appoin<g ref="char:EOLhyphen"/>ted to be hewers of wood, and drawers of water, <hi>Joſuah</hi> 9. or <hi>Lovies</hi> Sonnes, <hi>Sam.</hi> 1.2.36. who at that time when the Lord ſhall raiſe up his faithfull Prieſt, ſhall come and crouch for a peece of ſilver, or a morſell of bread, ſaying, put me I pray thee into one of the Prieſts Offices, that I may eat a pecee of bread, or with thoſe Merchants of the earth, who when the Kings and Magiſtrates of the earth, who have committed fornication with the whore, and lived deliciouſly; at her overthrow, ſhall bewail her, and lament for her, <hi>Revel.</hi> 18.9. then alſo ſhall thoſe Merchants of the earth weepe and mourn; for no man buyeth their Merchandize any more, verſ. 10. This will cauſe them as the Jewes, <hi>Acts</hi> 22.22. to diſcover their madneſſe who eaſt duſt upon their heads, ſo theſe crying, weeping, &amp; wayling, ſaing, alas, alas, that great City wherein were made rich, all that had Ships in the Sea, by reaſon of her coſtlineſſe, for in one howre is ſhe made deſolate, verſ. 19. and verſ. 20. the Church holy Meſſengers and Prophets are called forth to rejoyce over her for God hath avenged them on her when all profit and delight is taken away from her, verſe 22.23.
+<pb n="5" facs="tcp:153816:2"/>the Reaſon is layd down verſ. the laſt, becauſe in her was found the blood of Prophets and of Saints, and of all that were ſlain upon the earth; oh that therefore your honours would give liberty for publike diſputes, that thereby the truth might be tryed, and that there might be ſome time allowed after the publike Exerciſes is done; wherein the hearers thoſe whoſe mouthes the Lord by his ſpirit ſhall open, might have liberty to adde to what is delivered, or contradict if irronious, and that there might be ſome places that are vacant, as <hi>Paules,</hi> or the like appointed, for ſuch exerciſes and tryalls of the truth, according to <hi>Iohn</hi> 1.4.1. where he ſaith, believe not every ſpirit, but trie the ſpirits whether they are of God, becauſe many falſe Prophets are gone out into the world, and <hi>Theſ.</hi> 1.5.21. The Apoſtle exhorts the Saints to prove all things, and to hold faſt that which is good, which cannot be done in that way that is practiſed by them, they tying up the mouthes of all but themſelves, by their Antichriſtian power and practice, that therefore the Kings of the earth, and you the Majeſtrates would be wiſe, and conſider your wayes, &amp; know as it was once ſaid to <hi>Saul,</hi> as he was going to <hi>Damaſcus,</hi> having received Authority from the High Prieſts to perſecute and hale to priſon all that called upon the name of the Lord Jeſus, <hi>Saul Saul,</hi> why perſecuteſt thou me, it is hard for thee to kick againſt the pricks, ſo it will one day be ſaid to all thoſe that perſecute Chriſt in his Members, which through the ſubtelty of Antichriſt is uſually done under the name of Heri<g ref="char:EOLhyphen"/>ticks and Sectaries, as in Queen <hi>Maries</hi> dayes, &amp;c. for know as the Prophet <hi>David</hi> ſaith, <hi>Pſal.</hi> 2.2. to 6. although the Kings of the earth ſet themſelves, and the Rulers take Councel together againſt the Lord, and againſt his Chriſt, ſaying, let us break his bonds aſunder, and caſt away his cords from us; but he that ſits in Heaven ſhall laugh, the Lord ſhall have them in deriſion, then ſhall he ſpeak to them in his wrath, and vex them in his ſore diſpleaſure, yet have I ſet my King upon my holy hill of <hi>Zion,</hi> all which their doing was but a vane thing in <hi>Davids</hi> Accompt, verſ. the firſt, and verſ. 10.11.12. he exhorts them ſaying, be wiſe now therefore on ye Kings, be inſtructed, ye Judges of the earth ſerve the Lord with feare, and rejoyce with trem<g ref="char:EOLhyphen"/>bling, kiſſe the Son leaſt he be angry, &amp; ye periſh from the way, if his wrath be kindled, yea but a little, bleſſed are they that put their truſt in him, compared with <hi>Prov.</hi> 16.20. <hi>Iſa.</hi> 30.18. <hi>Jer.</hi> 17.7. &amp; 27 7. <hi>Rom.</hi> 9.33. and 10.11. 1 <hi>Pet.</hi> 2.6. For ſaith the Lord, <hi>Iſa.</hi> 60.12. The Nati<g ref="char:EOLhyphen"/>on and Kingdom that will not ſerve thee ſhall periſh, yea thoſe Na<g ref="char:EOLhyphen"/>tions
+<pb n="6" facs="tcp:153816:3"/>ſhall be utterly waſted, on that <hi>England</hi> would conſider this in time! leaſt one day it be ſaid to it, as was once ſaid by Chriſt to Jeruſalem, <hi>Luke</hi> 13.34 and 19 41. where coming nigh to the City, he beheld it, and wept over it, ſaying, if thou hadſt known even thou at leaſt in this thy day, the things that belong to thy peace, but now they are hid from thy eyes.</p>
+            <p>So the Lord for many years having called upon this Kingdom of <hi>England</hi> for repentance, and turning unto him by amendment, ſol<g ref="char:EOLhyphen"/>lowing us with mercies and deliverances, fatherly chaſtizing us by peſtilence, ſword and famine; but what amendment is there of any ſince, but that in juſtice, pride, cruelty, neglect of the poore, Idolatry, covetouſnes abounds, &amp; as the proph. ſaith, <hi>Iſ.</hi> 56.11. <hi>every one for ku gaine from his quarter,</hi> that love of mony the roote of all evill remain<g ref="char:EOLhyphen"/>ing as much as ever. 1 <hi>Tim.</hi> 6.10.</p>
+            <p>That therefore we would turn unto him according to promiſe, in keeping the Proteſtation and Covenant, in ſtanding for a reformati<g ref="char:EOLhyphen"/>on according to the word of God and inſtitutions of Chriſt, and not covetous mens deſires and inventions, who in all ages have been ob<g ref="char:EOLhyphen"/>ſtructers of the true worſhip of God, &amp; perſecuters of his ſervants, as <hi>King.</hi> 1 22.22. to 28. <hi>Ier.</hi> 18.18. Come let us ſmite him with the tongue, <hi>Ames</hi> 7.10.11 <hi>Mic.</hi> 1.1. &amp;c. 3. <hi>Ier.</hi> 26.11. to 19. <hi>Mat.</hi> 23.13. who ſhut up the Kingdom of Heaven againſt men, they neither go in themſelvs, neither ſuffer them that are entring to go in; but as <hi>Thee<g ref="char:EOLhyphen"/>doro Beza</hi> obſerves from <hi>Act.</hi> 6.9. to 15. that falſ teachers becauſe they will not be overcome, flee from diſputations to Magiſtrates &amp; open ſlandering, and falſe accuſations, &amp; that the firſt bloudy perſe<g ref="char:EOLhyphen"/>cution of the Church of Chriſt began, and ſprung from a Councell of Prieſts by the ſuggeſtion of the Univerſity Doctors, that therefore we might beware of men, and according to the command of God heat ken only to the voice of Chriſt, <hi>Mat.</hi> 17.5. that ſo we obey<g ref="char:EOLhyphen"/>ing him the great Prophet and Anointed, the Lord may be gracious unto us in cauſing the ſword to be ſheathed, and that he may delight to dwell among us, in turning the hearts of the Fathers unto the chil<g ref="char:EOLhyphen"/>dren, and the hearts of the children to the Fathers; which ſhall be the deſire and prayer of him, that deſires the happines here and glory hereafter of you, and all that love the Lord <hi>Jeſus</hi> Chriſt in fincerity.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:153816:3"/>
+            <head>Whereas it is Reſolved by the Houſe of Commons, that all perſons guilty of uotorious offences ſhall be ſuſpended the Sacrament of the Lords Supper; the Houſe of Commons deſires to be ſatisſied by the Aſſembly of Divines in theſe particulars.</head>
+            <list>
+               <item>1. WHether the Parochiall and Congregationall Elderſhips, appointed by Ordinance of Parliament are <hi>Jure Divino,</hi> by the will and appointment of Jeſus Chriſt.</item>
+               <item>2, Whether all the Members of the ſaid Elderſhips are Mem<g ref="char:EOLhyphen"/>bers thereof, or which of them are <hi>Jure Divino</hi> by the will and ap<g ref="char:EOLhyphen"/>pointment of Jeſus Chriſt?</item>
+               <item>3, Whether the Supreame Aſſemblies or Elderſhips <hi>viz.</hi> the Claſ<g ref="char:EOLhyphen"/>ſicall, Provinciall and Nationall, whether all or any of them, or which of them are <hi>Jure Divino,</hi> and by the will and appointment of Jeſus Chriſt.</item>
+               <item>4. Whether appeales from Congregationall Elderſhips to the Claſſicall, Provinciall and Nationall Aſſemblies, or to any of them or which of them are <hi>Iure Divino,</hi> and by the will and appoint<g ref="char:EOLhyphen"/>ment of Jeſus Chriſt?</item>
+               <item>5. Whether oecumenicall Aſſemblies are <hi>Iure Divino,</hi> or whether there be appeales from any of the former Aſſemblies, to the ſaid oe<g ref="char:EOLhyphen"/>cumenicall Aſſemblies, <hi>Iure Devino</hi> by the will and appointment of Jeſus Chriſt?</item>
+               <item>6. Whether by the word of God the power of judging, and decla<g ref="char:EOLhyphen"/>ring what are ſuch notorious and ſcandalous offences as aforeſaid, and conventing before them, trying and actuall ſuſpending from the Sacrament ſuch offenders accordingly, either in the Congregationall Elderſhips or Presbytery, or in any other Elderſhip of Presbytery preſented to the Houſe as the advice of the Aſſembly, and whether ſuch powers are in them only, or any of them, or in which of them <hi>Jure Divino,</hi> and by the will and appointment of Jeſus Chriſt?</item>
+               <item>7. Whether there be any certaine and particular rules expreſſed in the word of God, to direct the ſaid Elderſhips, or Presbyteries, or any of them in the exerciſe and execution of the powers aforeſaid, and which are thoſe rules?</item>
+               <item>8. Is there any thing contained in the word of God, that the Su<g ref="char:EOLhyphen"/>pream Majeſtracy in a Chriſtian ſtate, may not judge and determine, what are the aforeſaid notorious and ſeandalous offencet, and the manner of ſuſpention from the ſame, And in what particulars con<g ref="char:EOLhyphen"/>cerning
+<pb n="8" facs="tcp:153816:4"/>the premiſſes is the ſaid Supreame Majeſtracy by the word of God excluded?</item>
+            </list>
+            <p>In Anſwer of theſe particulars the Houſe of Commons deſires of the Aſſembly of Divines their proofs from Scripture, and to ſet down the ſeverall texts in the expreſſe words of the ſame.</p>
+            <p>Ordered that every particular Miniſter of the Aſſembly of Divin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that is or ſhall be preſent at the debate of any of theſe queſtions, de upon every reſolution which ſhall be preſented to this Houſe concern<g ref="char:EOLhyphen"/>ing the ſame, ſubſcribe his reſpective name either with the Affirma<g ref="char:EOLhyphen"/>tive or Negative, as he giveth his Vote, &amp; thoſe that do decent from the major Part ſhall ſet down their poſſitive opinions, with the expreſſe Text of Scripture upon which their opinion is grounded.</p>
+            <p>For Anſwer to the firſt Quaerie, the Churches of Chriſt were con<g ref="char:EOLhyphen"/>ſtituted, and gathered out of the world by the Miniſtry of the Goſ<g ref="char:EOLhyphen"/>pel, according to that great Charter thereof, <hi>Mat.</hi> 28.19.20. <hi>Mark.</hi> 16.15.16. <hi>Lu.</hi> 24.47. And not by any Authority or Miniſtry of the ci<g ref="char:EOLhyphen"/>vill Magiſtrate, and as they were thus gathered, &amp; planted in the pre<g ref="char:EOLhyphen"/>mitive times, ſo are they in like manner by his Servants to be gather<g ref="char:EOLhyphen"/>ed after the Apoſtacie whom by his power he ſhall in an extraordi<g ref="char:EOLhyphen"/>narie manner raiſe up, and by the Servants of the Churches that ſhall be by them ſent forth to preach the everlaſting Goſpel for the in<g ref="char:EOLhyphen"/>lightening the earth, diſcovering the Miſtery of iniquity, and the Miniſtry of Antichriſt, gathering his people out of ſpirituall Babylon, as out of Babylon of old, and planting them into Church fellowſhip and order, having their Commiſſion from Chriſt and his Church, and not by Command and Authority from Pope, Councel, Synod, or civill Magiſtrate: the Church of Chriſt being his ſpirituall Kingdom, con<g ref="char:EOLhyphen"/>ſiſting of a company of Saints, or holy people, <hi>Rom.</hi> 1.7. <hi>Cor.</hi> 1.1.2. <hi>Pet.</hi> 1.1.16. called out of the world, <hi>John</hi> 15.19. <hi>Rev.</hi> 5.9. By the preaching of the Goſpel, <hi>Mat.</hi> 28.19.20. <hi>Mark.</hi> 16.15.16. by a free &amp; voluntary conſent, <hi>Pſ.</hi> 18.43.44.110.3 <hi>Acts</hi> 2.41. &amp; 13.48 &amp; 17.11. entring into Covenant, <hi>Pſal.</hi> 50.5 <hi>Zep.</hi> 2.1. <hi>Acts</hi> 3.23. to 26. <hi>Heb.</hi> 8.8.9. to diſcharge duties to God, &amp; one to another, <hi>Iohn</hi> 4.24. <hi>Phil.</hi> 3.3.1. <hi>Pet.</hi> 2.5. 1 <hi>Cor.</hi> 12, 12. to 28. putting on Chriſt by Baptiſme or dip<g ref="char:EOLhyphen"/>ping. <hi>Gal.</hi> 3.26.27. for ye are all the Children of God by faith in Chriſt Jeſus; for as many of you as have been dipt into Chriſt, have put on Chriſt, compared with <hi>Epheſ.</hi> 4.4.5. There is one body &amp; one ſpi<g ref="char:EOLhyphen"/>rit,
+<pb n="9" facs="tcp:153816:4"/>even as ye are called in one hope of your calling, one Lord, one faith, one dipping, one God and Father of all, who is above all, and through all, and in you all. This is Chriſts ſpirituall houſe under the new Teſtament, whereof he is Lord, as <hi>Hab.</hi> 2.20. <hi>Heb.</hi> 3 6. &amp; head. <hi>Eph.</hi> 1.22.23. &amp; King, <hi>Iſa.</hi> 33.22. and Law giver, <hi>James</hi> 4 12. and prophet, <hi>Deut.</hi> 18.15. <hi>Mat.</hi> 17.5. Being that Prieſt, Alter and Sacrifice, by which all that believe and obey, are for ever ſanctified and perfected, <hi>Heb.</hi> 10.14. and 5.8 9. for it is not the voice of the Church, much leſſe the voice of the <hi>Synod,</hi> or Parliament, that we are to hearken unto in ſpiritnall worſhip, but Chriſts voice in the Church, and that in all things whatſoever he ſhall ſay unto us, <hi>Tim.</hi> 1.3.15. he ſpeaking in his Servants, as <hi>Luke</hi> 10.16. he that heareth you, heareth me, and he that heareth me, hear<g ref="char:EOLhyphen"/>eth him that ſent mee.</p>
+            <p>Theſe where ever gathered together under Heaven, in the name of Chriſt, according to his order, conſiſting of Jewes or Gentiles, <hi>Col.</hi> 1.18. have power from him their head to receive in, deale with, or caſt out of the Church, by the only Lawes and Statutes, of <hi>King Je<g ref="char:EOLhyphen"/>ſus,</hi> heir only King and Law-giver, as <hi>Iſai.</hi> 9 6. and 33.22. <hi>Acts</hi> 2.41.42. <hi>Mat.</hi> 48.15. to 20. and 1 <hi>Cor.</hi> 5.4.5. and 2.2.4. to 9. They being under Chriſt their King, the freeſt Independant Corporation or ſtate under Heaven, <hi>Iohn</hi> 8.36. If the Sonne therefore ſhall make you free, ye ſhall be free indeed, <hi>Cor.</hi> 1.3.5, 6, 7. compared with <hi>Iſai.</hi> 2.17. The Lord alone ſhall be exalted in that day. Now the parochiall Churches or Elderſhips that are appointed by Statute Lawes, or Ordinances of Parl. and thereby forced thereunto, cannot be <hi>Jure Divino,</hi> Churches of Chriſt by his will and appointment, but all the people of God are as truly called out of ſuch Aſſemblies, as out of <hi>Babylon</hi> of old, to the free voluntary worſhip of the Goſpell.</p>
+            <p>To the ſecond quaerie I anſwer, The Pariſh Churches or Aſſem<g ref="char:EOLhyphen"/>blies being not gathered according to the Commiſſion of Chriſt in that great Charter of the Goſpell, and by his Miniſters and Servants, but by the Authority of the civill Magiſtrate, through the importu<g ref="char:EOLhyphen"/>nity of <hi>Austin</hi> the Monck, ſent over from Gregory the 7. from which roote and foundation the nationall Miniſtry now extant, ſtill retaines their Ordination, having ſtill kept their firſt ſtate and conſtitution, although reformed in divers particuler Doctrines, whereby they cannot be <hi>Jure Divino,</hi> Churches of Chriſt by his will and appointment; but are conſtitutions of men through the
+<pb n="10" facs="tcp:153816:5"/>ſubtilty of the man of ſin, or beaſt riſing out of the earth [to wit] by his earthly inventions, who by the ſlight of men, and cunning craftineſſe they lye in wait to deceive, having 2. horns like a Lamb, but ſpeakes like a Dragon, exerciſing all the power of the firſt beaſt, &amp;c. <hi>Rev.</hi> 13.11. having a ſhew of wiſdom in will worſhip and hu<g ref="char:EOLhyphen"/>mility, <hi>Col.</hi> 2.23. of whom the Apoſtle bids the Saints, beware of be<g ref="char:EOLhyphen"/>ing ſpoiled through their philoſophy and vain deceit, after the tra<g ref="char:EOLhyphen"/>ditions of men, after the Rudiments of the world, and not after Chriſt, in whom dwells the fulneſſe of the God-head bodily, and ye the Saints [to wit believers dipt] are compleat in him, &amp;c. and <hi>Mat.</hi> 15.9. Chriſt ſaith, in vain do they worſhip me, teaching for Doctrines the Commandements of men, from whence it appeares [as the Churches, ſo the Members alſo] are none of them <hi>Jure Di<g ref="char:EOLhyphen"/>vino,</hi> Members of any Church of Chriſt, by his will and appoint<g ref="char:EOLhyphen"/>ment.</p>
+            <p>To the 3. I anſwer, for any ſupream Authority of Aſſemblies or Elderſhips, <hi>viz.</hi> the Claſſicall, provinciall, or nationall, whether they are <hi>Jure Divino</hi> or no. In all the Goſpell I do not find any more ju<g ref="char:EOLhyphen"/>risdiction of Churches over Churches, then there is of brethren o<g ref="char:EOLhyphen"/>ver brethren, but the contrary is clearly proved, <hi>Mat.</hi> 23.8.9, 10. but be not ye called <hi>Rabby,</hi> for one is your Maſter, to wit, Chriſt and all ye are brethren, and call no man your Father upon the earth, for there is but one, your Father which is in Heaven; be not called Doc<g ref="char:EOLhyphen"/>tors, for one is your Doctor, even Chriſt, and <hi>Cor.</hi> 1.5 4 5. That Church of <hi>Corinth</hi> had power, as to caſt out the Inceſtious perſon, ſo upon his Repentance to receive him in again, without the autho<g ref="char:EOLhyphen"/>rity of any other Church, or any others contradiction, &amp; <hi>James</hi> 2.1. he ſaith, my brethren, have not the faith of our Lord Jeſus Chriſt, the Lord of glory with reſpect of perſons, and Chap. 3.1. he ſaith my brethren, be not many Maſters, knowing that we ſhall receive the greater condemnation; but this ſpirit of pride is no new thing, for it began in the Diſciples, <hi>Luke</hi> 9.46. when there aroſe a reaſoning a<g ref="char:EOLhyphen"/>mongſt them, which of them ſhould be the greateſt, but Chriſt per<g ref="char:EOLhyphen"/>ceiving the thoughts of their hearts, anſwereth them by ſetting a little Child in the midſt of them, to teach them humility, there being too many now a dayes of their ſpirit v. 46. 47. 48 as he taught them, againſt perſecution, verſ. 54.55, 56. when they would have had ſire come down from Heaven to conſume the Samaritans, ſaying, ye know not of what ſpirit you are, for the Sonne of man is not come
+<pb n="11" facs="tcp:153816:5"/>to deſtroy mens lives but to ſave them, &amp;c. Therefore theſe ſupream Aſſemblies are not <hi>Jure Divino,</hi> by the will and appointment of Jeſus Chriſt, but are all by humane Authority not known in Scrip<g ref="char:EOLhyphen"/>ture, being againſt the freedom, which every Church of Chriſt hath given them, which they ought to injoy, none being before or after another in their priviledge or prerogative, which liberty and free<g ref="char:EOLhyphen"/>dom every proteſtator and Covenanter is ſworn to ſtand for and maintain.</p>
+            <p>To the 4. Concerning Appeales from Congregationall Elder<g ref="char:EOLhyphen"/>ſhips to the Claſſicall, Provinciall, and Nationall Aſſemblies. The pariſhionall not being proved <hi>Iure Divino,</hi> but of humane Authori<g ref="char:EOLhyphen"/>ty, appeales to them, and from one unto another muſt needs be un<g ref="char:EOLhyphen"/>lawfull. Beſides, how contrary is this to the primitive practice, as <hi>Acts</hi> 15. when there aroſe a difference about Circumciſion in the Church of <hi>Antiochia,</hi> they ſent up to the Church at <hi>Ieruſalem</hi> for their advice, (not that they had any authority over them), and they as humbly and truly ſent their advice, ſaying, it ſeemed good to the holy ſpirit, and to us, to lay upon you no other burthen then theſe neceſſary things. Now if theſe could ſay thus, and would do as they did, their Councell ought evangelically to be received in like ſort by believers; but theſe as they were never called and gathered by Chriſts Authority, ſo have they not the promiſe of his preſence by his ſpirit with them as his Churches have, <hi>Mat.</hi> 18.17. to 20. &amp; 28.20. 1 <hi>Cor.</hi> 3.22.23. &amp; 1.5.4.5. <hi>Iohn</hi> 14.16.17. &amp; 15.26.27.</p>
+            <p>To the 5. I find no oecumenical Aſſemblies in Scripture under the Goſpel to be of Gods appointing, but an invention of the man of ſin, rayſed by thoſe Locuſts that came out of the ſmoke that aroſe out of the bottomleſſe pitt, <hi>Rev.</hi> 9.2.3. who had power as the Sorpions of the earth have power that ſo by force, As <hi>Eze.</hi> 34.4. flatteries as <hi>Dan.</hi> 11.21.22.34. And cunning craſtineſſe whereby they lye in wait to deceive <hi>Epheſ.</hi> 4.14.15. Tranſforming themſelves as the Miniſters of righteouſneſſe, <hi>Cor.</hi> 2.11.15. whoſe end ſhall be accor<g ref="char:EOLhyphen"/>ding to their workes by which meanes they cauſe all the world to wonder after the beaſt, who had his wound and did live <hi>Rev.</hi> 13.3. to 7. for the firſt beaſt, being thoſe heathen bloudy tyrants who wor<g ref="char:EOLhyphen"/>ſhipped the Draggon which gave him his power, to whom was gi<g ref="char:EOLhyphen"/>ven a mouth, ſpeaking great things and blaſphemies againſt God, to blaſpheme his name, and his Tabernacle, and them that dwell in Heaven &amp;c.</p>
+            <p>
+               <pb n="12" facs="tcp:153816:6"/>This beaſt being thus wounded, there ariſeth another beaſt out of the earth (to wit) out of thoſe earthly inventions of Popiſh aſſem<g ref="char:EOLhyphen"/>blies counſells and Synods, <hi>Re.</hi> 6 13.14. the Starres folling from Hea<g ref="char:EOLhyphen"/>ven to the earth, they leaving thoſe glorious inſtitutions of Chriſt, the dipping of actuall believers, upon confeſſing ſins and profeſſing faith, as alſo the volentarie contribution of the Saints, or as <hi>Fox</hi> in his acts and monuments renders it, the puer almes of the Church, and bringing in baptizing or rather ſprincklin of Naturall Infants, and paying <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iths, hereby raiſing national Churches wichout the which they could never have done it, neither could they now retaine them, thereby contradicting the Appoſtles rule <hi>Cor.</hi> 1.4.6. in preſuming a bove that which is written; but ſhould theſe 2. pillars be taken away according to our Proteſtation and Covenant, and a reformation ſet up according to the word of God [as is pretended] the Kingdome of Antichriſt like the Philiſtins houſe will fall upon their heads, as that on the Philiſtins; upon <hi>Sampſons</hi> that glorious <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pe of Chriſts pulling away the 2. pillars whereupon the houſe ſtood, <hi>Iudg:</hi> 16.29.30. That whereas by the authority of the Civill Magiſtrate, they having inſinuated into there affections, like <hi>Pharoahs</hi> froggs into his and his ſervants Bedchambers <hi>Exod.</hi> 8.3 4. by being their Chap<g ref="char:EOLhyphen"/>lains as they call themſelves, a ſervice not known in the Goſpell of Chriſt for his miniſters; whereby the Magiſtrates being by them de<g ref="char:EOLhyphen"/>luded, give that power, which was given the<g ref="char:cmbAbbrStroke">̄</g> of God for the puniſh<g ref="char:EOLhyphen"/>ment of evill doers; but for the praiſe of them that doe well, to the upholding of this beaſt and his Image, and they having received it put it forth to the uttermoſt cauſing all, both ſmall and great, rich and poor, free and bond, to receive a marke in their right hand, and in their foreheads, and that no man might buy or ſell, ſave he that had the mark or the name of the beaſt, or the number of his name &amp;c. This ſecond beaſt conſiſting of the whole ſtate hirarchie or cler<g ref="char:EOLhyphen"/>gy, as they call themſelves with the Image even all that receive the ordination from that ſtate there being not ſoe much as one of there names, much leſſe their practice or maintenance heard of in the Goſ<g ref="char:EOLhyphen"/>pell of King Jeſus: from the Pope or Prelate to the Sexton, and yet they do as that vile perſon ſpoken of by <hi>Daniel, Dan.</hi> 11.21. That come in peaceably and obtaine the Kingdome by flatteries, pretend<g ref="char:EOLhyphen"/>ing they are the miniſters of Chriſt yet are not content with his or<g ref="char:EOLhyphen"/>dination, nor maintenance and wages, and therefore obtaine ordi<g ref="char:EOLhyphen"/>nances, as doctor <hi>Burgis</hi> &amp;c. and Statute Lawes from the ſtate
+<pb n="13" facs="tcp:153816:6"/>though ſome of them had little need having enough before, which have cauſed more breach of the proteſtation and Covenant, and tedious ſuits in the Courts of Juſtice then any one thing in the Kingdom; and therefore to ſay no more to this all appeales to them are humaine, and not <hi>Iure Divino,</hi> neither in the particular or generall.</p>
+            <p>To the 6. I anſwer, The Lord Jeſus Chriſt having ſatisfyed his Fathers Juſtice, and thereby wrought everlaſting rightcouſneſſe for all them that obey him, it being teſtified from Heaven by the Fa<g ref="char:EOLhyphen"/>ther, that he is his beloved Sonne, in whom he is well pleaſed, And having received all power both in Heaven and in earth, by which Authority as then he ſent forth his Servants, ſo hath he alſo given and ſetled this power only upon and in his Church, and that to the body [not the Miniſters] conſiſting of a company of dipt Diſciples, not the Servants diſtinct from the Church, as they new pretend and aſſume, but as they derive it from the Church, they giving it to them; and therefore theſe Presbyters not being Members of any Church of Chriſt, according to his inſtitution, and yet claiming ſuch power as diſtinct from the Church, have nothing therein but what they have from the man of ſinne, by tradition of men, and not <hi>lure Divino,</hi> by the will and appointment of Jeſus Chriſt.</p>
+            <p>To the 7. There are no rules at all given in the Goſpell of <hi>King Ieſus</hi> in queſtion, giving power to the ſaid Presbyters or Elderſhips, or any of them, for the putting in execution of any the power a<g ref="char:EOLhyphen"/>foreſaid, ſeeing their conſtitution is not from God by Chriſt tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great prophet of the Church, but from their reverend Fathers the Prelates, and ſo conſequently from the Pope, or civill ſtate, who hath no more power to Command or ſet Lawes in the Kingdom of Chriſt, then the King of <hi>Spain,</hi> or the <hi>French</hi> King hath in the Kingdom of <hi>England,</hi> which is intire and Independant of it ſelfe; But for a Church of Chriſt truly ſtated there are rules, as to receive in, ſo to deale with and caſt out if need require, as <hi>Tim.</hi> 2.3.16.17. All Scrip<g ref="char:EOLhyphen"/>ture is given by inſpirtaion of God, and is profitable for Doctrine, for reproofe for correction, for inſtruction in righteouſneſſe, that the man of God may be perfect, throughly furniſhed unto all good workes.</p>
+            <p>To the 8. We are to take notice, that under the Goſpel the Lord Jeſus is not only a King, but the only King and Law-giver to his Church, <hi>Iſai.</hi> 33.22 <hi>Iames</hi> 12.4. <hi>Tim.</hi> 16.15. <hi>Rev.</hi> 17.14. and there<g ref="char:EOLhyphen"/>fore the civill Magiſtrate under the Goſpell ought no more to in<g ref="char:EOLhyphen"/>trench
+<pb n="14" facs="tcp:153816:7"/>upon his prerogative in Church Government, then he did up<g ref="char:EOLhyphen"/>on theirs in civill things, as <hi>Luke</hi> 12.13, 14. where he would not ſo much as divide the inheritance between the 2. brethren, &amp; therefore <hi>Mat.</hi> 22 16. to 21. when the Pharices took Councel how they might intangle Chriſt, asking him whether it was lawfull to pay tribute to <hi>Caeſer</hi> or no<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith unto them, ſhew me the tribute money, ſay<g ref="char:EOLhyphen"/>ing, whoſe Image or ſuperſcription is this, they ſay unto him, <hi>Caeſars</hi> he ſaith unto them, render therefore unto <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> and unto God the things that are Gods, and <hi>Rom.</hi> 13.1. to 7. the Apoſtle injoynes obedience from the Church unto civill Magiſtrates or higher powers, not only to Chriſtians, but as they were Magiſtrates though Heathens, which they then were, ſhewing that they are of God, ordained of God as Mrs. of our fleſh, and that thoſe that reſiſt them, reſiſt the Ordinance of God, whether Chriſtian or Heathen, &amp; ſuch as reſiſt ſhal receive to themſelves dam<g ref="char:EOLhyphen"/>nation; for Rulers are not [to wit appointed of God] a terrour to good works, but to the evil, wilt thou the<g ref="char:cmbAbbrStroke">̄</g> not be afraid of the power, do that which is good; but if thou do that which is evill, be afraid, for he beareth not the ſword in vain; for he is the Servant of God, a Revenger to execute wrath upon him that doth evill; wherefore ye muſt needes be ſubject not only for wrath, but for Conſcience ſake.</p>
+            <p>Now what this evill is, the Apoſtle ſhewes, to wit, not Heriticks, and Schiſmaticks, as ſome fondly dream, and would if they could maintain, though with fire and ſword, although indeed more to up<g ref="char:EOLhyphen"/>hold their own honour, Kingdom, power, places, greatneſſe, and be<g ref="char:EOLhyphen"/>nifices, then the civill Magiſtrates as is clearly diſcovered to moſt men already, whoſe eyes the Lord hath in any meaſure opened, and may eaſily be proved to all that are not wilfully blind; for in the Conſcience concerning worſhip, the Lord only raigneth as King and Lawgiver; wherefore the Apoſtle ſaith, The Law is not made for a righteous man, but for the Law leſſe and diſobedient, for the ungodly, and for ſinners; for unholy and prophane, for murtherers of Fathers &amp; murtherers of Mothers, for Man-ſlayers for Whoremongers, for them that defile themſelves with mankind, for men-ſtealers; for lyars, for perjured perſons [oh that the Miniſters that preſt the Proteſtation &amp; Covenant ſo cagerly, would take notice of this!] and if there be any other thing that is contrary to wholſom doctrin, according to the glorious Goſpel of the bleſſed Ged, which was
+<pb facs="tcp:153816:7"/>committed to my truſt &amp;c. 1 <hi>Tim.</hi> 1.9. to the 11. Now the civill Magiſtrates are called fathers of our fleſh, to whom in all theſe civill things we ought to be obedient; But ſaith the Apoſtle ſhall we not much rather be in ſubjection to the father of ſpirits and live; to wit, to his laws given forth by his ſonne the great prophet of his Church, ſpeaking from heaven, <hi>Heb.</hi> 1 1. <hi>Deut.</hi> 18.15. <hi>Act.</hi> 3.22.23. Who hath given a rule for his people to walk by, as <hi>Mat.</hi> 28.20. which rule the Apoſtle exorts the <hi>Galathians,</hi> and in them all beleivers to obſerve as <hi>Gal.</hi> 6.16. they thus walking having the promiſe of peace and mercy upon them, And <hi>Phil.</hi> 3.16. he exorts the Church, to walk by the ſame rule, and to mind the ſame things.</p>
+            <p>Thus I have made appear, that the Congregationall or Pariſhlo<g ref="char:EOLhyphen"/>nall Elderſhips appointed by Ordinance of Parliament, the members thereof, or any of them, the ſupream Aſſemblies or Elderſhips, <hi>viz.</hi> the Claſſicall, Provinciall, oecumenicall or Nationall, are none of them <hi>Jure Devino,</hi> by the will and appointment of Jeſus Chriſt.</p>
+            <p>Wherin, I have alſo proved from the word of truth, that the Civill Magiſtrate hath nothing to do as a Magiſtrate, to judge of any cauſe in the Church of Chriſt, it being there to be judged and tried by thoſe ſervants, and in that order and manner that is ſet down in his word, by the will and appointment of Ieſus Chriſt.</p>
+            <p>And what was required by the Parliament of the Synod or Aſſem<g ref="char:EOLhyphen"/>bly, I have in ſome weak meaſure anſwered from the ſcripture, &amp; ſet down the ſeverall texts in the expreſſe words of the ſame, according as was deſired, ſubſcribing my ſelf your honours, and the Churches Servant in the Service of the Goſpell of King <hi>Jeſus.</hi>
+            </p>
+            <closer>
+               <signed>E. Barber.</signed>
+            </closer>
+            <epigraph>
+               <q>Conſider of it, take advice and ſpeake your minds, <bibl>
+                     <hi>Iudges</hi> 19.30.</bibl>
+               </q>
+            </epigraph>
+         </div>
+         <div type="list_of_queries">
+            <list>
+               <head>Certain Quaeries propounded (by the Author) to the Aſſembly cal<g ref="char:EOLhyphen"/>led Devines.</head>
+               <item>1. Whether that Doctrine of obedience to Magiſtrats or higher powers, which the Apoſtles taught, <hi>Rom.</hi> 13.1 <hi>Pet.</hi> 1.2 13.14.15. &amp;c were true or no.</item>
+               <item>2. Whether it was not the Apoſtles duty, to practice that himſelf which he taught and commanded others to do as <hi>Rom.</hi> 2.21.22.23</item>
+               <item>3. Whether the Magiſtrates or thoſe higher powers, which from the diſciples he required obedience unto, were of their Religion or in the Goſpell practice yea or no?</item>
+               <item>4. If not, Whether it was lawfull for thoſe Magiſtrates or higher powers, to perſecute <hi>Paul</hi> and the reſt of the Church for their Religion.</item>
+               <item>5. Whether <hi>Paul</hi> and the Diſciples might plot againſt or per<g ref="char:EOLhyphen"/>ſecute the Magiſtrate, or any of his ſubjects by compelling or for<g ref="char:EOLhyphen"/>cing
+<pb facs="tcp:153816:8"/>their Conſcience or otherwiſe, though to the true worſhip God under the Goſpel.</item>
+               <item>6. Whether Magiſtrates as well as Subjects, be not to be ſubje<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the Lawes, Statutes, and cenſures of <hi>King Jeſus</hi> only, who as unde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Law, ſo under the Goſpel is no reſpecter of perſons, <hi>Dent.</hi> 10.17. <hi>Rom.</hi> 2.11. 1 <hi>Pet.</hi> 1.17.</item>
+               <item>7. Whether it may not be conceived, The Lord is now making in<g ref="char:EOLhyphen"/>quiſition for the blood that hath been ſhed in this Land, and other parts of the world, of the Jewes his ancient and peculiar people, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Iſal.</hi> 51.21.22, 23. where the Lord ſaith, heare thou this, thou miſe<g ref="char:EOLhyphen"/>rable and drunken, but not with wine. Thus ſaith the Lord God, e<g ref="char:EOLhyphen"/>ven God that pleadeth the cauſe of his people, behold I have taken out of thine hand the cup of trembling, even the dreggs of the cup of my weath, thou ſhalt drink it no more, but I wil put it into their hand that afflicted thee, which have ſaid to thy ſoule, bowdown that we may go over, and thou haſt laid thy body as the ground, &amp; as the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtreet to them that went over, comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with <hi>Th.</hi> 1.2.12. to 17. <hi>Re.</hi> 18.24.</item>
+               <item>8. The puniſhing ſome as the Catholicks, &amp;c. more then with death, to the unhumain quartering and hanging up their quarters; alſo the Childre<g ref="char:cmbAbbrStroke">̄</g> luffering for their Parents ſin, contrary to the expres word of the Lord, <hi>Ezek.</hi> 18.4.20. that ſoul that ſinneth, it ſhall dye, the ſonne ſhall not bear the iniquity of the Father, neither ſhall the Father bear the iniquity of the ſonne, the righteouſneſſe of the righteous ſhall be upon him, and the wickedneſſe of the wicked ſhall be upon him, alſo executing men for theft, it being contrary to the Law of God.</item>
+               <item>9. VVhether there ought not to be a Faſt kept for all the innocent bloed that hath been ſhed in this Land, not only of the Jews, but alſo in Herry the 8. dayes, Queen Maries, and in Queen Elizabeths, as Barrovvs Greenwoods Penries, &amp;c. who dyed for oppoſing the Common Prayer, &amp;c.</item>
+               <item>10. VVhether there be any Goſpell rule by precept, or example for compul<g ref="char:EOLhyphen"/>ſion of Conſcience in matters of Religion, taking of Oaths, making of forſt Cove<g ref="char:EOLhyphen"/>nants &amp;c. that ſo we being truly informed, may prevent the reproof Ier. 23.10 once g ven to the Iewes, the Land is full of Adulterers, becauſe of ſwearing the Land mourneth, the pleaſant places of the wilderneſſe are dryed up. and their courſe is evill, &amp; their force is not right, Ho. 4.2. by ſwearing lying killing ſteal<g ref="char:EOLhyphen"/>ing and committing adultery; they break out, and blood toucheth blood. Chapt. 10.4. They have ſpoken words, ſwearing falſly in making a Covenant. Thus Iudgement groweth as vvormvvood in the furrovves of the field</item>
+               <item>11. By what rule from the Goſpell of Chriſt may Chriſtians being Members of one Church; as they profeſſe under Chriſt their head kill one another. or that they would diſtinguiſh what makes the one more then the other, by Goſpell rule, or whether they ought not to excommunicate the unruly and diſorderly walkers, before they kill them, and not let them ſtand Members of their Church, though worthy of death, and ſo kill them, which the Church of Corinth might not, though for a l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſinne, in which ther doings they come ſhort of the Church of Roome.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
